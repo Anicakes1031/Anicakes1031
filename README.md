@@ -2,11 +2,9 @@
   <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="300" />
 </p>
 <h1 align="center"> Welcome to my Github! 👋👋</h1> 
-<hr>
 <h2 align="center">I'm Joseph Aniken A. Naval</h2>
-<p align="center">
 ![Profile Views](https://komarev.com/ghpvc/?username=juanDelaCruz&style=flat-square)
-</p>
+
 
 ### ✨ About Me
 Here are some ideas to get you started:
