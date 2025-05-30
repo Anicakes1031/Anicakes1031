@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="300" />
 </p>
 <h1 align="center"> Welcome to my GitHub! 👋👋</h1> 
-<h2 align="center">I'm Joseph Aniken A. Naval</h2>
+<p align="center" size="1rem">I'm Joseph Aniken A. Naval</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JosephAnikenNaval&style=flat-square" alt="Profile Views" />
 </p>
