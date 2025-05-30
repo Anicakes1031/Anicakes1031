@@ -4,7 +4,7 @@
 
 <h1 align="center">Welcome to my GitHub! 👋👋</h1>
 
-<p align="center"><strong>I’m Joseph Aniken A. Naval, a Computer Engineering graduate. I am eager to learn and explore as many programming languages as possible, especially since not all of them are taught in college. </strong></p>
+<p align="center"><strong>I’m Joseph Aniken A. Naval, a Computer Engineering graduate. <br>I am eager to learn and explore as many programming languages as possible, especially since not all of them are taught in college. </strong></p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JosephAnikenNaval&style=flat-square" alt="Profile Views" />
