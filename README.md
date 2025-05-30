@@ -2,13 +2,14 @@
   <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="300" />
 </p>
 
-# Welcome to my GitHub! 👋👋
+<p align="center"><big><strong>Welcome to my GitHub! 👋👋</strong></big></p>
 
-<h3 align="center">I'm Joseph Aniken A. Naval</h3>
+<p align="center"><strong>I'm Joseph Aniken A. Naval</strong></p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JosephAnikenNaval&style=flat-square" alt="Profile Views" />
 </p>
+
 
 ---
 
