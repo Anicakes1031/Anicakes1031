@@ -1,3 +1,4 @@
+![Welcome GIF](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
 ## Hi there 👋  
 I'm Joseph Aniken A. Naval
 
