@@ -1,12 +1,14 @@
 <p align="center">
   <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="300" />
 </p>
+<h1 align="center"> Welcome to my Github! 👋👋</h1> 
+<hr>
+<h2 align="center">I'm Joseph Aniken A. Naval</h2>
+<p align="center">
+![Profile Views](https://komarev.com/ghpvc/?username=juanDelaCruz&style=flat-square)
+</p>
 
-<h1 align="center">## Hi there 👋 <br>I'm Joseph Aniken A. Naval</h1> 
-I'm Joseph Aniken A. Naval
-
-**Anicakes1031/Anicakes1031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### ✨ About Me
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
