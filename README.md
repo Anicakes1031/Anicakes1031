@@ -1,8 +1,10 @@
 <p align="center">
   <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="300" />
 </p>
-<h1 align="center"> Welcome to my GitHub! 👋👋</h1> 
-<p align="center">**I'm Joseph Aniken A. Naval**</p>
+
+# Welcome to my GitHub! 👋👋
+
+<h3 align="center">I'm Joseph Aniken A. Naval</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JosephAnikenNaval&style=flat-square" alt="Profile Views" />
