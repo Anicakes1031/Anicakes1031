@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="pixel.gif" width="800" height="300" style="object-fit: cover;" />
+  <div style="width:800px; height:300px; overflow:hidden;">
+    <img src="pixel.gif" />
+  </div>
 </p>
+
 
 
 
