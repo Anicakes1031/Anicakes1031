@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHdheXJxYmNuYXJ4NHUxNW1zeXZtaDJ1Znp2aWxjdHhlaTIyYmNmdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif" width="600" />
+  <img src="https://pin.it/1rgpwPoj3" width="600" />
 </p>
 
 <h1 align="center">Welcome to my GitHub! 👋👋</h1>
