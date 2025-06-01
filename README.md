@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="pixel.gif" width="800" />
+  <img src="pixel.gif" width="600" style="height: auto;" />
 </p>
+
 
 <h1 align="center">Welcome to my GitHub! 👋👋</h1>
 
