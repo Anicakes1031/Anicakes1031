@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="pixel.gif" width="800" height="300" style="object-fit: contain;" />
+  <img src="pixel.gif" width="600" height="300" style="object-fit: cover;" />
 </p>
 
 
