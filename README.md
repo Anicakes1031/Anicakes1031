@@ -1,6 +1,6 @@
 <p align="center">
   <div style="width:800px; height:300px; overflow:hidden;">
-    <img src="pixel.gif" />
+    <img src="pixel.gif" style="width:100%; height:auto;" />
   </div>
 </p>
 
