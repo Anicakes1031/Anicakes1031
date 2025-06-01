@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="pixel.gif" width="800" height="300" />
+  <img src="pixel.gif" width="800" />
 </p>
 
 <h1 align="center">Welcome to my GitHub! 👋👋</h1>
