@@ -33,6 +33,16 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=Mathworks)
+![HDL](https://img.shields.io/badge/-HDL-555555?style=flat-square&logo=verilog) <!-- Note: HDL/verilog don't have official logos in shields.io -->
+![Visual Basic](https://img.shields.io/badge/-Visual%20Basic-68217A?style=flat-square&logo=visual-studio)
+![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop)
+![AutoCAD](https://img.shields.io/badge/-AutoCAD-CB2026?style=flat-square&logo=autodesk)
 
 
 
