@@ -5,9 +5,9 @@
 
 
 
-<h1 align="center">Welcome to my GitHub! 👋👋</h1>
+<h1 align="center">Hi, Welcome to my GitHub! 👋👋 🇵🇭</h1>
 
-<p align="center"><strong>I’m Joseph Aniken A. Naval, a Computer Engineering graduate. </strong><br>I am currenly learning and exploring many programming languages as possible, especially since not all of them are taught in college. </p>
+<p align="center"><strong>I’m Joseph Aniken A. Naval, a Filipino Junior Software Engineer seeking more knowledge about this growing tech world. </strong><br>I am currenly learning and exploring many programming languages as possible, especially since not all of them are taught in college. Pero some of them are my experties now kaya still learning paren sa career path and fill the empty space in my brain </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JosephAnikenNaval&style=flat-square" alt="Profile Views" />
@@ -19,9 +19,7 @@
 ### ✨ About Me
 
 - 💼 **Current Focus:** Learning software engineering and improving my coding skills..  
-- 🌱 **Learning:**   Software Engineering concepts, Python and JavaScript and Web development (HTML, CSS, JavaScript)..
-- 💻 **Passionate About:** Contributing to open-source projects, creating modern web solutions, and learning efficient backend architectures..
-- 📫 **Get in Touch:** navaljoseph31@gmail.com  
+- 🌱 **Learning:**   Software Engineering concepts, Python and JavaScript and Web development (HTML, CSS, JavaScript).. 
 
 ---
 
